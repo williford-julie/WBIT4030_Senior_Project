@@ -1,0 +1,112 @@
+header {
+    background-color: teal;
+    border-style: outset;
+    background-image: url("images/headbg4.jpg");
+}
+
+h1 {
+    position: relative;
+    padding-left: 1em;
+    padding-top: .5em;
+    font-family: 'Comic Sans MS', Monaco, monospace;
+    font-size: 200%;
+    text-align: center;
+    color: rebeccapurple;
+}
+
+h2 {
+    color: rebeccapurple;
+    font-weight: bold;
+    font-family: 'Comic Sans MS', Monaco, monospace;
+    font-size: 150%;
+    border-bottom-style: dotted;
+    border-bottom-color: #rebeccapurple;
+    width: 100%;
+}
+
+.first {
+    font-family: 'Comic Sans MS', serif;
+    color: teal;
+}
+
+nav {
+    background-color: #393939;
+    color: #2E1E1E;
+    font-family: 'Comic Sans MS', serif;
+    font-size: 100%;
+    padding-right: .5em;
+    padding-bottom: .5em;
+    background-image: url("images/headbg4.jpg");
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 2em;
+    margin-right: 2em;
+    padding-bottom: .3em;
+    padding-top: .3em;
+    font-size: 130%;
+    border-style: groove;
+    border-radius: 5%;
+    border-color: #teal;
+    background-color: #adbbe6;
+    width: 15%;
+}
+
+a:link {
+    font-weight: bold;
+    color: #17354a;
+}
+
+a:visited {
+    color: #3b88bf;
+}
+
+a:hover {
+    background-color: #bfb43b;
+}
+
+#main_container {
+    Position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-image: url("images/BG1.png");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+article {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+section {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.footer {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    background-color: teal;
+    padding-top: .5em;
+    padding-bottom: 1em;
+    text-align: center;
+    color: #2E1E1E;
+    font-size: 90%;
+    padding-right: 1em;
+}
