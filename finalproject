@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="mystyles.css">  
+  <link href="https://fonts.googleapis.com/css?family=Pacifico|Laila|Srisakdi" rel="stylesheet"> 
+  <title>Final Project</title>
+</head>
+
+<body>
+<div id="main_container">
+<header>
+  <h1>Final Project</h1>
+  <nav>
+    <ul>
+	  <li><a href="index.html">Home</a></li>
+	  <li><a href="analysis.html">Analysis Reports</a></li>
+          <li><a href="timelog.html">Weekly Time Log Reports</a></li>
+          <li><a href="progressreports.html">Progress Reports</a></li> 
+	  <li><a href="objectives.html">Most Meaningful Objective</a></li> 
+	  <li><a href="finalproject.html">Final Project</a></li> 
+     </ul>
+   </nav>
+</header>
+
+<article>
+  <section>
+    <h2>Content under construction</h2>
+  </section>
+  
+</article>
+</div>
+     <div class="footer">
+     <p>Julie Williford</a> 2020<p>
+</div>
+
+</body>
+</html>   
